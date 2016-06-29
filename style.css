@@ -1,3 +1,17 @@
 .container {
     margin: 0 auto;
+    margin-top: 150px;
     width: 650px;
+}
+.main-text {
+  padding: 20px;
+  border: 1px solid black;
+}
+.editable {
+	border: 3px dashed red;
+}
+button {
+  font-size: 16px;
+  padding: 5px 10px 5px 10px;
+  margin-top: 20px;
+}
